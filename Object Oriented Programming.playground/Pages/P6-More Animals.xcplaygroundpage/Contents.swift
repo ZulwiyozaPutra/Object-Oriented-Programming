@@ -186,5 +186,4 @@ stinger.eat("pollen")
 
 
 
-
 //: [Previous](@previous) | [Next](@next)
